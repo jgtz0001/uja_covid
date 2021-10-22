@@ -1,0 +1,14 @@
+es\ujaen\dae\ujacovid\entidades\Rastreador.class
+es\ujaen\dae\ujacovid\beans\ServicioUjaCovid.class
+es\ujaen\dae\ujacovid\excepciones\IdIncorrecto.class
+es\ujaen\dae\ujacovid\excepciones\RastreadorYaRegistrado.class
+es\ujaen\dae\ujacovid\excepciones\DNINoValido.class
+es\ujaen\dae\ujacovid\excepciones\UsuarioYaRegistrado.class
+es\ujaen\dae\ujacovid\entidades\Usuario$Estado.class
+es\ujaen\dae\ujacovid\app\UjacovidApplication.class
+es\ujaen\dae\ujacovid\excepciones\FechaIncorrecta.class
+es\ujaen\dae\ujacovid\excepciones\PuntoDeControlEquivocado.class
+es\ujaen\dae\ujacovid\excepciones\LocalizadorNoExiste.class
+es\ujaen\dae\ujacovid\entidades\Usuario.class
+es\ujaen\dae\ujacovid\entidades\Contacto.class
+es\ujaen\dae\ujacovid\excepciones\DNINoEncontrado.class
